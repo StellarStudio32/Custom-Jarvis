@@ -1,0 +1,10 @@
+faster-whisper
+pynput
+sounddevice
+groq
+openai
+requests
+pyperclip
+word2number
+pyttsx3
+yt-dlp
